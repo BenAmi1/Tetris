@@ -1,7 +1,7 @@
 # Tetris-Game
 # The Good old-fashioned Tetris game. 
 # Play vs friend, vs the computer, or just watch 2 computers playing against each other :)
-# Few difficulty levels
+# Several difficulty levels
 # Code -- Bullets:
 * C++
 * AI mode - human vs computer / computer vs computer: A Function which calculates where is the ideal spot to put the current brick, 
