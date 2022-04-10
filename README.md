@@ -1,4 +1,4 @@
-# Tetris-Game
+# Tetris Gameplay
 # The Good old-fashioned Tetris game. 
 # Play vs friend, vs the computer, or just watch 2 computers playing against each other :)
 # Several difficulty levels
