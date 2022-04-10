@@ -30,6 +30,3 @@ int main()
 	
 	return END_GAME;
 }
-
-
-
