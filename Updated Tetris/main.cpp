@@ -27,6 +27,7 @@ int main()
 
 		cls();
 	}
+	
 	return END_GAME;
 }
 
