@@ -11,4 +11,8 @@ then delete a row, then fit to the board (by not creating empty "holes"),
 and finally - go as deep as possible into the board. If one of the above is not possible / not effective, the computer will go for a random move.
 
 
-![Tetris Run](https://user-images.githubusercontent.com/75504717/178961273-9de79f79-65c3-4089-9b59-bb82419bb325.gif)
+
+
+
+https://user-images.githubusercontent.com/75504717/178961711-a7809dde-f156-40b7-8188-e6cbd85ddbb9.mp4
+
