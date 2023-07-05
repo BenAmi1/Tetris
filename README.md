@@ -1,4 +1,4 @@
-Welcome to the classic game of Tetris!
+Welcome to the classic game of Tetris!  
 Challenge a friend or the computer in this timeless game. You can even sit back and watch the computer play against itself for your entertainment.
 Choose from multiple difficulty levels to tailor the game to your preference.
 # Code
